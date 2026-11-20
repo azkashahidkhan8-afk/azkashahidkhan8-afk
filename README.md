@@ -1,16 +1,22 @@
-## Hi there 👋
+# Azka Shahid Khan
 
-<!--
-**azkashahidkhan8-afk/azkashahidkhan8-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Zoology graduate with research experience in biodiversity assessment, molecular genetics, and quantitative data analysis.
 
-Here are some ideas to get you started:
+My academic research includes an undergraduate project on biodiversity patterns and species distribution across habitats in Haveli District, AJK, and a postgraduate project investigating *MLC1* gene mutations associated with non-syndromic intellectual disability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My research interests include biodiversity, ecology, evolutionary biology, molecular genetics, and conservation-oriented research.
+
+### Research & Technical Interests
+- Biodiversity assessment and ecological data analysis
+- Molecular genetics and genetic sequence analysis
+- Bioinformatics and genetic inheritance analysis
+- Data visualization and computational approaches
+
+### Selected Research Projects
+- [Quantitative Biodiversity Analysis – Haveli District](https://github.com/azkashahidkhan8-afk/quantitative-biodiversity-analysis-haveli)
+- [MLC1 Genetic Inheritance Analysis](https://github.com/azkashahidkhan8-afk/MLC1-genetic-inheritance-analysis)
+
+### Data Analytics & Technology Projects
+- [Deloitte Technology Job Simulation](https://github.com/azkashahidkhan8-afk/deloitte-technology-simulation)
+- [Tata Group Data Visualisation Simulation](https://github.com/azkashahidkhan8-afk/tata-data-visualisation-simulation)
+- [Deloitte Data Analytics Simulation](https://github.com/azkashahidkhan8-afk/deloitte-data-analytics-simulation)
